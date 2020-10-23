@@ -4,6 +4,6 @@ This document is intended to help the users get familiar on how to use the code 
 
 ## Pre-requisites:
 1. Python 2.7 and above (at the time of writing this code Python 3 was used)
-2. numpy[https://numpy.org/]
-3. pandas[https://pandas.pydata.org/docs/]
-4. plotly[https://plotly.com/python/]
+2. [numpy](https://numpy.org/)
+3. [pandas](https://pandas.pydata.org/docs/)
+4. [plotly](https://plotly.com/python/)
